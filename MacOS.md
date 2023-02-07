@@ -16,6 +16,7 @@
 
 ### [Visual Studio Code](https://code.visualstudio.com)
 
+### [nvm](https://github.com/nvm-sh/nvm)
 
 ## 同步与笔记
 
@@ -27,7 +28,27 @@
 
 ### [Rectangle](https://github.com/rxhanson/Rectangle)
 
+### [alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
 
 ## 系统信息
 
 ### [ncdu](https://dev.yorhel.nl/ncdu)
+
+## 阅读与浏览
+
+### [chrome](https://www.google.com/chrome/)
+
+1. 设置通过zsh从特定端口启动的别名
+
+```sh
+# 在.zshrc中添加别名
+alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222"
+```
+
+### [Skim](https://skim-app.sourceforge.io/)
+
+> github地址 [A source mirror of Skim, the OSX PDF viewer.](https://github.com/jasongrout/skim)
+
+
+### [Calibre](https://calibre-ebook.com/download)
+
