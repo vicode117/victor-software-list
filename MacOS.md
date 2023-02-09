@@ -2,11 +2,9 @@
 
 > 记录我个人在MacOS系统上使用的软件
 
-
 ## 安装与下载工具
 
 ### [Homebrew](https://brew.sh/)
-
 
 ## 开发工具
 
@@ -49,6 +47,8 @@ alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --r
 
 > github地址 [A source mirror of Skim, the OSX PDF viewer.](https://github.com/jasongrout/skim)
 
-
 ### [Calibre](https://calibre-ebook.com/download)
 
+## 远程连接
+
+### [Microsoft Remote Desktop](https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients)
