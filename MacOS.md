@@ -12,6 +12,25 @@
 
 ### [oh-my-zsh](https://ohmyz.sh)
 
+#### 自动补全插件
+
+Clone this repository into $ZSH_CUSTOM/plugins (by default ~/.oh-my-zsh/custom/plugins)
+
+```sh
+  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+
+Add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc):
+
+```sh
+plugins=( 
+    # other plugins...
+    zsh-autosuggestions
+)
+```
+
+Start a new terminal session.
+
 ### [Visual Studio Code](https://code.visualstudio.com)
 
 ### [nvm](https://github.com/nvm-sh/nvm)
